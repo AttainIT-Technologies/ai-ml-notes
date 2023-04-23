@@ -1,0 +1,10 @@
+
+== My Prompts
+
+* ultra smooth blue and purple gradient :: smooth blurry gradient :: blurry --ar 90:195 --q 2 --s 250 --v 5
+
+== Links
+
+* https://twitter.com/linusekenstam/status/1649902341984854017?s=66&t=U90L9708TveKgva-sK5qYw
+** ultra smooth {color} and {color} gradient :: smooth blurry gradient :: blurry --ar 90:195 --q 2 --s 250 --v 5
+** These are for iPhone 14 (aspect ratio 9:19.5) for that to work you need to write —ar 90:195 since commas do not work. 

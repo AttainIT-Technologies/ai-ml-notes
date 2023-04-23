@@ -1,0 +1,13 @@
+
+== My Prompts
+* man in military unform looking at a planet from orbit from the window of spaceship, in the style of paul corfield, wes anderson, neoclassical symmetry, matte painting, scifi vistas, stage-like environments, jeff danziger --ar 16:9 --q 2 --v 5
+* man in astronaut suit looking at a planet from orbit from the window of an exploration spaceship, in the style of paul corfield, wes anderson, neoclassical symmetry, matte painting, orbital vistas, stage-like environments, jeff danziger --ar 16:9 --q 2 --v 5
+* woman in flight suit looking at a blue planet from orbit from the window of an exploration spaceship, in the style of tron, paul corfield, wes anderson, neoclassical symmetry, matte painting, dark orbital vistas with stars, stage-like environments, jeff danziger
+
+== Links
+
+* https://twitter.com/iamneubert/status/1649858884272521218?s=66&t=U90L9708TveKgva-sK5qYw
+** [Subject] looking at [Scene] from window, in the style of paul corfield, wes anderson, neoclassical symmetry, matte painting, [Style] vistas, stage-like environments, jeff danziger --ar 16:9 --q 2 --v 5
+** style = Skylines, Mountain, Cyberpunk, etc.
+** A woman dressed in red looking at a nuclear explosion from window, in the style of Edward Hopper, neoclassical symmetry, matte painting, majestic vistas, stage-like environments --ar 16:9 --q 2 --upbeta --q 2  --v 5
+** Batman looking at Gotham City from window, in the style of paul corfield, wes anderson, neoclassical symmetry, matte painting, the jokers clubhouse vistas, stage-like environments, jeff danziger

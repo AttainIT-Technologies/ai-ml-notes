@@ -1,0 +1,28 @@
+
+== Prompts
+
+* an emblem for a cybersecurity company, vector, simple, patriotic, american --no photorealistic details
+
+== Links
+
+* https://wgmimedia.com/how-to-make-a-logo-with-midjourney/
+* https://www.ebaqdesign.com/blog/midjourney-logo-design
+* https://aituts.com/midjourney-v5/
+
+== GPT Idea
+
+Prompt:
+
+----
+describe a logo for an american cybersecurity company including a mascot
+----
+
+Response:
+
+----
+The logo for an American cybersecurity company could feature a shield as a prominent symbol, representing protection and security. The shield could be designed with sleek, modern lines and a metallic finish, giving it a high-tech look. The company name could be displayed in bold, capitalized letters, either above or below the shield.
+
+For the mascot, the company could feature a cyber wolf, which represents strength, intelligence, and vigilance. The wolf could be designed with a sleek, high-tech appearance, perhaps with glowing blue eyes or circuitry patterns etched into its fur. The wolf could be featured in a crouching or standing position, ready to defend against cyber threats.
+
+Overall, the logo should convey a sense of strength, security, and technological expertise, with a touch of playfulness and personality from the wolf mascot.
+----

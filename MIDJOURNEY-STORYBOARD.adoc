@@ -1,0 +1,14 @@
+
+== My Prompts
+
+* purple cute monster character sheet, cartoon style, cute, friendly, small horns, character design, multiple poses and expressions, isolated on white background --v 4 --q 2
+* a new york city street view, cartoon style, cute, friendly, comic book background --v 4 --q 2
+* grey cute wolf pup character sheet, cartoon style, cute, friendly, cyber, character design, multiple poses and expressions, isolated on white background --v 4 --q 2
+* burnt orange and white cute wolf pup character sheet, cartoon style, cute, friendly, cyberpunk, glowing eyes, character design, multiple poses and expressions, isolated on white background --v 4 --q 2
+
+== Links
+
+* https://twitter.com/icreatelife/status/1649581926074777601?s=66&t=U90L9708TveKgva-sK5qYw
+** blue cute monster character sheet, cartoon style, cute, character design, multiple poses and expressions, isolated on white background --v 4 --q 2
+* https://twitter.com/icreatelife/status/1649576250539749383?s=20
+* https://clipdrop.co/

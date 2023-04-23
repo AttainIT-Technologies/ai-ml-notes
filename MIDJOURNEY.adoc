@@ -1,0 +1,30 @@
+
+== User Guide
+
+* https://docs.midjourney.com/docs/quick-start
+
+== General Prompt Links
+
+* https://twitter.com/javilopen/status/1642934866726768641?s=66&t=U90L9708TveKgva-sK5qYw
+* https://www.creativindie.com/best-midjourney-prompts-an-epic-list-of-crazy-text-to-image-ideas/#:~:text=Best%20MidJourney%20Prompts%3A%20camera%20lenses%20and%20filters&text=%E2%80%9CExpansive%20landscapes%2C%E2%80%9D%20%E2%80%9CSweeping,Including%20more%20of%20the%20scene.%E2%80%9D
+* https://wgmimedia.com/how-to-make-a-logo-with-midjourney/
+* https://www.ebaqdesign.com/blog/midjourney-logo-design
+* https://www.midjourney.com/account/
+* https://twitter.com/jhaddix/status/1645515555258990601?s=66&t=U90L9708TveKgva-sK5qYw
+** IMAGE_TYPE: X | GENRE: X | EMOTION: X| SCENE: X | ACTORS: X | LOCATION TYPE: X | CAMERA MODEL: X | CAMERA LENSE: X | SPECIAL EFFECTS: X | TAGS: X, X, X, X, X — ar 16:9
+* https://medium.com/@neonforge/chatgpt-midjourney-dall-e-and-stable-diffusion-how-to-create-amazing-images-for-almost-any-5daced80f376
+
+== Signup
+
+====
+Midjourney Bot
+ — Today at 9:26 AM
+Heya @chrismh, we're excited to have you as part of the Midjourney Beta!
+
+Other important tips
+- For visual guides and docs  https://docs.midjourney.com/docs/quick-start
+- When your trial ends type /subscribe or go to https://midjourney.com/account
+- To see your creations and top rated examples sign into our main site https://midjourney.com/
+- Need help? Ask your friends! Or go to our central server and click #trial-support
+- Other useful commands /info for account details /settings for settings and /help for an overview
+====
