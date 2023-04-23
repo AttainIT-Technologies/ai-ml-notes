@@ -123,7 +123,7 @@ For the above topic, come up with new and innovative ideas that are out-of-the-b
 
 * Write in different styles or tones to create more dynamic and varied content.
 
-Style examples:
+** Style examples:
 Descriptive
 Persuasive
 Narrative
@@ -145,7 +145,7 @@ Realistic
 Surrealistic
 Gothic
 
-Tone Examples:
+** Tone Examples:
 Formal
 Informal
 Serious
@@ -167,16 +167,13 @@ Playful
 Sincere
 Objective
 
-Example prompt: 
-"Give [insert style] advice you can about using GPT-4 to create more effective content in a [insert tone]."
+* Prompt: "Give [insert style] advice you can about using GPT-4 to create more effective content in a [insert tone]."
 
-* Topic: Productivity for entrepreneurs. 
-For the above topic, write multiple perspectives from a group with different viewpoints using their own voice and phrasing.
+* Topic: Productivity for entrepreneurs. For the above topic, write multiple perspectives from a group with different viewpoints using their own voice and phrasing.
 
 * Use GPT to write in different formats, such as outlines, mind maps, bullet points, persuasive essays, or chunks of text of less than 280 characters, using a specific structure.
 
-Example prompt: 
-"Create a mind map on the topic of using Notion to stay organized as a content creator, listing out the central idea, main branches, and sub-branches."
+* Prompt: "Create a mind map on the topic of using Notion to stay organized as a content creator, listing out the central idea, main branches, and sub-branches."
 
 * Write a brief post about why copywriting is an essential skill in 2023. Use the insights from the following webpage: [insert webpage URL]
 
@@ -241,4 +238,3 @@ Example prompt:
 * Prompt: "Give me a few CTA (call to action) ideas for my new product. Make sure they are eye catching, short and friendly. Must emphasize "value" over "action". Product [insert]"
 
 * Prompt: "Use AIDA to convert customers with ChatGPT"Write an AIDA for the following product: Product: [describe your product]"
-
