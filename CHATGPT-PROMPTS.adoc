@@ -14,7 +14,231 @@
                        __/ | |         | |                       | |            
                       |___/|_|         |_|                       |_|            
                                                      
-                                                     
+
+== Free AI Classes
+
+* CS50's Introduction to AI with Python (Harvard)
+* Data Science: Machine Learning (Harvard)
+* Artificial Intelligence (MIT)
+* Machine Learning (MIT)
+* Machine Vision (MIT)
+* Advanced Natural Language Processing (MIT)
+
+== Repo ColossalAI
+
+* https://github.com/hpcaitech/ColossalAI
+* https://medium.com/@yangyou_berkeley/colossalchat-an-open-source-solution-for-cloning-chatgpt-with-a-complete-rlhf-pipeline-5edf08fb538b
+
+== Other Repos
+
+* https://github.com/yoheinakajima/babyagi
+* https://github.com/Torantulino/Auto-GPT
+* https://github.com/microsoft/JARVIS
+
+== Labor Market Impacts
+
+* https://arxiv.org/abs/2303.10130
+
+== Links
+
+* HyperParameters
+** https://twitter.com/realchasecurtis/status/1643312487305977867?s=66&t=U90L9708TveKgva-sK5qYw
+
+                                   
 == Examples
 
-TBD
+* I want you to act as a screenwriter.  You will develop an engaging and creative script for
+either a full-length file or a web series that can captivate its viewers.  Start by coming up
+with interesting characters, the setting of the story, dialog between the characters, etc. 
+Once your character development is complete, creating an exciting storyline filled with twists
+and turns that keep the viewer in suspense until the end.  My first request is "I need to write
+a science fiction drama movie set in outer space."
+
+* I want you to act as a Linux terminal.  I will type commands and you will reply with what the 
+terminal should show.  I want you to only reply with the terminal output inside one unique code block,
+and nothing else.  Do not write explanatins, do not type commands unless I instruct you to do so. When
+I need to tell you something in English, I will do so by putting text inside brackets {like this}.  My
+first command is pwd.
+
+* I am providing you with my unique selling points.  Generate a summary that emphasizes my unique selling
+points and sets me apart from other candidates.
+
+* I have 2 days free a week over two months.  Make a crash course study plan diving into AI/ML 
+foundational topics.
+
+* I am providing my resume here.  Please review it and suggest any improvements or edits.
+
+* I want you to act as a motivational speaker.  Put together words that inspire action and make people
+feel empowered to do something beyond their abilities.  You can talk about any topics but the aim is to
+make sure what you say resonates with your audience, giving them incentive to work on their goals and 
+strive for better possibilities.  My first request is, "I need a speech about how everyone should never
+give up."
+
+* I want you to act as a tech reviewer.  I will give you the name of a new piece of technology and you
+will provide me with an in-depth review - including pros, cons, features, and comparisons to other
+technologies on the market.  My first suggestion request is "I am reviewing the IPhone 14 Pro Max"
+
+* Here is a paragraph.  Please write a topic sentence for it.
+[paste paragraph here]
+* Thank you.  Could you give me three variations of this sentence.
+
+* Please write a transition sentence to connect the two paragraphs.
+[paste paragraph 1]
+[paste paragraph 2]
+* Thank you.  Could you give me three variations of this sentence.
+
+* Please rewrite the following paragraph as an introduction.
+[paste paragraph]
+
+* Please rewrite this paragraph as a conclusion.
+[paste paragraph]
+* Thank you.  Could you give me three variations of this paragraph.
+
+* Please give me a counterargument for this claim.
+[paste paragraph]
+
+* Explain [complex topic] in simple terms. Explain to me like I'm 11 years old.
+
+* I will provide you with an argument or opinion of mine. I want you to criticize it as if you were <person>
+
+* Prompt: [Insert Text]
+Analyze the writing style and write about building a business as the above author would write.
+
+* Create terms and services for my website about an AI tool called [name].
+
+* I want you to act as a recruiter. I will provide responsibilities about the job, and it will be your job to come up with strategies for sourcing qualified applicants.
+
+* Generate a creative social media content calendar for the next week for our [product/company] on how [desired outcome of our customers]
+
+* Analyze the text below for style, voice, and tone. Using NLP, create a prompt to write a new article in the same style, voice, and tone: [insert your text or link to your writing]
+
+* Act as a seasoned data scientist and guide me in writing a report that highlights the latest trends and predictions in the field of artificial intelligence. Provide me with unique insights and expert advice that will help me deliver high-quality, informative content to my audience.
+
+* "Write a poem about content creation" or "Describe feeling like an digital marketer in 10 adjectives."
+
+* "Topic: Improving your copywriting skills.
+For the above topic, come up with new and innovative ideas that are out-of-the-box and unconventional."
+
+* Give examples that contradict the ideas expressed on this webpage, and generate thought-provoking solutions: [insert webpage URL]
+
+* Write in different styles or tones to create more dynamic and varied content.
+
+Style examples:
+Descriptive
+Persuasive
+Narrative
+Expository
+Technical
+Academic
+Creative
+Informal
+Formal
+Humorous
+Satirical
+Ironical
+Dramatic
+Poetic
+Mystical
+Suspenseful
+Romantic
+Realistic
+Surrealistic
+Gothic
+
+Tone Examples:
+Formal
+Informal
+Serious
+Humorous
+Sarcastic
+Ironic
+Cynical
+Satirical
+Confident
+Doubtful
+Optimistic
+Pessimistic
+Sympathetic
+Empathetic
+Angry
+Aggressive
+Respectful
+Playful
+Sincere
+Objective
+
+Example prompt: 
+"Give [insert style] advice you can about using GPT-4 to create more effective content in a [insert tone]."
+
+* Topic: Productivity for entrepreneurs. 
+For the above topic, write multiple perspectives from a group with different viewpoints using their own voice and phrasing.
+
+* Use GPT to write in different formats, such as outlines, mind maps, bullet points, persuasive essays, or chunks of text of less than 280 characters, using a specific structure.
+
+Example prompt: 
+"Create a mind map on the topic of using Notion to stay organized as a content creator, listing out the central idea, main branches, and sub-branches."
+
+* Write a brief post about why copywriting is an essential skill in 2023. Use the insights from the following webpage: [insert webpage URL]
+
+* Write a blog post about the benefits of starting a garden for mental health.
+
+* Write a headline and description for a new mobile app that helps users live a healthier lifestyle.
+
+* What is the key takeaway from this webpage: [insert URL]
+
+* Summarize this email into a few sentences: [paste email text]
+
+* Analyze the sentiment of these customer reviews for our new product, and tell us the style and tone of the review.
+
+* Generate 3 main colors and 5 accent colors for a website that sells wooden swords.
+
+* Complete this sentence: 'The best way to use GPT-4 is...'
+
+* I don't know how to code, but I want to understand how this works. Explain the following code to me in a way that a non-technical person can understand. Always use Markdown with nice formatting to make it easier to follow. Organize it by sections with headers. Include references to the code as markdown code blocks in each section. The code:
+
+* Explain [complex topic] like I'm 5 years old.
+
+* Prompt: "[Paste Your Writing]."  Proofread the above text for spelling and grammar. Make the sentences more clear.
+
+* Prompt: "[Describe your personal development goals and challenges]" Using the GROW (Goal, Reality, Options, Will) coaching model, help me create a personal development plan to achieve my goals.
+
+* Prompt: "[Insert business or personal brand description]"  Help me create a powerful brand story for my brand using the Hero's Journey framework.
+
+* Prompt: "Create [#] headlines about {Insert Topic}." The headlines should be eye-catching, punchy, and memorable.
+
+* Prompt: Distill the most important lessons from {Book Title} into a comprehensive, but digestible summary.
+
+* Prompt: "Write an outline for a long-form blog post about [Insert Topic]."
+
+* Prompt: "Help me create goals for [career or personal objective] using the SMART framework."
+
+* Prompt: "Share a step-by-step systematic approach for solving [specific problem or challenge]."
+
+* Prompt: "Here's the situation I'm currently facing: [Insert Situation]."  Based on these circumstances, what would [Steve Jobs] recommend me to do?
+
+* Prompt: "[Insert a brief description of your target audience and product or service]." Assist me in creating an email marketing campaign using the Customer Value Journey framework.
+
+* Prompt: "Provide a step-by-step guide to optimize my website's SEO for [target keywords]."
+
+* Prompt: "Based on [insert your mission and niche], help me craft a 30-second elevator pitch for [product, service, or personal brand]."
+
+* Prompt: "Identify the top 5 market trends in [industry] and their implications for my business."
+
+* Prompt: "Using the 4 Ps of marketing, assist me in developing a marketing plan for [product or service]."
+
+* Prompt: "Write a product description for a [product] for the [target audience]. Use a witty, funny tone because that is what our brand stands for."
+
+* Prompt: "Act as an expert consultant in digital marketing and business. Create a detailed business model canvas for my company. Organize your answers in a table that follows the professional format."
+
+* Prompt: "I want you to act as a proofreader and writer. I'll provide you with an extract. Proofread for grammatical errors and ensure it is written clearly."
+
+* Prompt: "Write a marketing campaign outline using the 'Reciprocity Bias' framework to create a sense of obligation in [ideal customer persona] to try our [product/service]."
+
+* Prompt: "A customer made a purchase. Write a follow-up email to send, thanking them for their purchase and asking them to leave a review or feedback. Make it friendly, polite, and short."
+
+* Prompt: "I'm hiring a professional for the <job role> via interview, provide 10 multiple choice questions for the <job role>. 5 questions on skill and 3 on personality."
+
+* Prompt: "Give me a few CTA (call to action) ideas for my new product. Make sure they are eye catching, short and friendly. Must emphasize "value" over "action". Product [insert]"
+
+* Prompt: "Use AIDA to convert customers with ChatGPT"Write an AIDA for the following product: Product: [describe your product]"
+
