@@ -35,6 +35,10 @@
 * https://github.com/Torantulino/Auto-GPT
 * https://github.com/microsoft/JARVIS
 
+== LEAP API
+
+* https://twitter.com/hasantoxr/status/1639230227111985152?s=66&t=U90L9708TveKgva-sK5qYw
+
 == Labor Market Impacts
 
 * https://arxiv.org/abs/2303.10130
