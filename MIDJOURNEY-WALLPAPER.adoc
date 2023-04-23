@@ -1,5 +1,5 @@
 
-== My Prompts
+== Prompts
 
 * ultra smooth blue and purple gradient :: smooth blurry gradient :: blurry --ar 90:195 --q 2 --s 250 --v 5
 

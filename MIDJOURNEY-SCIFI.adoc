@@ -1,5 +1,5 @@
 
-== My Prompts
+== Prompts
 * man in military unform looking at a planet from orbit from the window of spaceship, in the style of paul corfield, wes anderson, neoclassical symmetry, matte painting, scifi vistas, stage-like environments, jeff danziger --ar 16:9 --q 2 --v 5
 * man in astronaut suit looking at a planet from orbit from the window of an exploration spaceship, in the style of paul corfield, wes anderson, neoclassical symmetry, matte painting, orbital vistas, stage-like environments, jeff danziger --ar 16:9 --q 2 --v 5
 * woman in flight suit looking at a blue planet from orbit from the window of an exploration spaceship, in the style of tron, paul corfield, wes anderson, neoclassical symmetry, matte painting, dark orbital vistas with stars, stage-like environments, jeff danziger

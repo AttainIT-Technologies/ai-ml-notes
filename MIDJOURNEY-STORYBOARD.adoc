@@ -1,5 +1,5 @@
 
-== My Prompts
+== Prompts
 
 * purple cute monster character sheet, cartoon style, cute, friendly, small horns, character design, multiple poses and expressions, isolated on white background --v 4 --q 2
 * a new york city street view, cartoon style, cute, friendly, comic book background --v 4 --q 2
