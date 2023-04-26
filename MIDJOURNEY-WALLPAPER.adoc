@@ -2,6 +2,7 @@
 == Prompts
 
 * ultra smooth blue and purple gradient :: smooth blurry gradient :: blurry --ar 90:195 --q 2 --s 250 --v 5
+* wallpaper pattern of watercolor cute dinosaurs --v 5 --tile
 
 == Links
 
