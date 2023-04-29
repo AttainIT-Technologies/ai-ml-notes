@@ -1,5 +1,7 @@
 == Prompts to sort
 
+* https://twitter.com/sbacani/status/1652343931848527872
+** Full body 3D Realistic render of day of the dead girl, big brown green eyes, ultra real textured hair, 32k uhd, hard edge painting, brown and amber, Canon EOS 5D Mark IV, Canon EF 50mm f/1.2L USM, Unreal Engine 5 --seed 750 --ar 2:3 --style expressive
 * Ironman taking a selfie with a GoPro while floating in the clouds in the sky, a selfie, one hand outreached holding the camera, fish eye lens, high detail, ultra realistic, cinematic lighting, portrait painting, photorealistic, Color Grading, portrait Photography, hyper - detailed, beautifully color graded, Unreal Engine5, Cinematic, --v 5 --s 750 --ar 3:2
 * A magazine cover photo of a supermodel, photographed on a Leica S3 medium format camera. Wes Anderson inspired color grading. God rays. Backlit, sunset dappled lighting. Ethereal. Photographed for ELLE magazine. trending on 500px. --no text --ar 4:5 --s 750
 * <https://s.mj.run/vlYVuPDTPek> <https://s.mj.run/WUN1v6dIXiM> a stunning woman, holding a book on fire to her chest, her hair is embellished with shimmering gold chains and delicate ornaments, hyper detailed, cinematic lighting, Kodak Vision3 500T film stock, 35 mm shot, diminished minimalism background, 8K resolution
