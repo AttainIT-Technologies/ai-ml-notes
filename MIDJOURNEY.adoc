@@ -1,5 +1,7 @@
 == Prompts to sort
 
+* Ironman taking a selfie with a GoPro while floating in the clouds in the sky, a selfie, one hand outreached holding the camera, fish eye lens, high detail, ultra realistic, cinematic lighting, portrait painting, photorealistic, Color Grading, portrait Photography, hyper - detailed, beautifully color graded, Unreal Engine5, Cinematic, --v 5 --s 750 --ar 3:2
+* A magazine cover photo of a supermodel, photographed on a Leica S3 medium format camera. Wes Anderson inspired color grading. God rays. Backlit, sunset dappled lighting. Ethereal. Photographed for ELLE magazine. trending on 500px. --no text --ar 4:5 --s 750
 * <https://s.mj.run/vlYVuPDTPek> <https://s.mj.run/WUN1v6dIXiM> a stunning woman, holding a book on fire to her chest, her hair is embellished with shimmering gold chains and delicate ornaments, hyper detailed, cinematic lighting, Kodak Vision3 500T film stock, 35 mm shot, diminished minimalism background, 8K resolution
 * a sunlight comes through the forest with some trees, in the style of anime art, lush and detailed, storybook-like, anime-inspired, i can't believe how beautiful this is
 * Doctor Strange taking a selfie with a GoPro on top of a building on Chinese palace , fish eye lens, high detail, ultra realistic, cinematic lighting, portrait painting, photorealistic, Color Grading, portrait Photography, hyper - detailed, beautifully color graded, Unreal Engine5, Cinematic 8K
@@ -11,6 +13,23 @@
 * Modern surreal extreme close up, Macro photo of pin up in heaven, beautiful eyes, dynamic pose, tilt angle by boris vallejo,Norman Rockwell, Milo manara, artgerm, mcbess UHD, 8k super Sharp Focus
 * moon art, in the style of dreamlike illustrations, dark aquamarine and gold, colorful costumes, dreamy atmosphere, dark aquamarine and orange, celebrity portraits, dream-like atmosphere
 * a woman’s head surrounded by multiple ovals and circles, in the style of richly detailed art nouveau, artgerm, sky-blue and amber, detailed world-building, orange and black, contrasting shadows, concert poster, alexandr averin
+* https://twitter.com/mayorkingai/status/1652268384044589058?s=66&t=U90L9708TveKgva-sK5qYw 
+** Light watercolor, blonde stunning girl walking at the beach, femenine, sunny day, watercolor painting, high details --ar 16:9 --v 5
+** watercolor, medium portrait of a Geisha on sakura forest , red kimono , femenine, delicate , sunny day, watercolor painting, watercolor painting, various brushes, high details --ar 16:9
+** Watercolor painting of a magical good morning, feature a hiker on top of a mountain, high quality watercolor painting, paint splashes, various brushes, warm colors --ar 16:9 --v 5
+** Watercolor painting of a landscape of huangshan mountains in china, high quality watercolor, soft colors, various brushes, high quality --ar 16:9 --v 5
+* https://twitter.com/g0rillaai/status/1651753153719615488?s=66&t=U90L9708TveKgva-sK5qYw
+** a comic drawing of a [OBJECT] in front of [BUILDING], ivy plants and flowers, [TYPE] landscape, saturated plain colors, american scene matte painting, matte drawing, detailed, by artgerm and skottie young --ar 3:2 --niji 5 --style scenic
+* https://twitter.com/iamneubert/status/1651624283985047552?s=66&t=U90L9708TveKgva-sK5qYw
+** High [TOPIC] symmetrical close-up portrait shoot in [COLOR+LOCATION] of an [SUBJECT], anamorphic lens, ultra realistic, hyper detailed, [COLOR]-core, [LOCATION/STYLE]-core --ar 16:9 --v 5
+*** [TOPIC]: fashion, automotive, biological
+*** [COLOR+LOCATION]: green jungle, red volcano
+*** [SUBJECT]: expressive supermodel wearing minimalistic green clothes
+*** [COLOR]: Green-Core, Raspberry-Pink-Core
+*** [LOCATION/STYLE]: Jungle-Core, Bubblegum-Core
+** High automotive symmetrical close-up portrait shoot of a green mercedes-amg GT standing in the jungle, anamorphic lens, ultra realistic, hyper detailed, green-core, automotive-core --ar 16:9 --q 2 --v 5
+* https://twitter.com/followmarcos/status/1650440146469134339?s=66&t=U90L9708TveKgva-sK5qYw
+** cute SUBJECT's head emotions emoji sheet, for Twitch --niji 5
 
 == Ideas
 
